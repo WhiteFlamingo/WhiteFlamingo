@@ -1,26 +1,39 @@
-White Flamingo 
+White Flamingo - I contribute to, advise on and mentor in DAOs
 
-Building 
-- communities
-- DAOs 
-- recognition for intellectual contributions to web3
+Interested in:
+- Human coordination
+- DAOs
+- web3 to solve global challenges. 
 
-Writing 
+Helping:
+- **Station** solve reputation in web3
+- **RADAR** foresight trends 
+- **DAOMasters** research & educate on DAOs
+- **RnDAO** empower humane coordination 
+- **Protein** explore good growth 
+
+Building: 
+- **XXI** focused on exploring recognition web3
+- **St Moritz DAO** to celebrate a special place
+
+Fellowships:
+- **Kernel KB5** Fellow
+- Future Leaders Council of the **World Wide Web Foundation**
+
+Previous: 
+- IC at **Protocol Labs**
+- Founder, Frontier Horizons
+- Ex-diplomat
+
+Writing:
 - mirror.xyz
 - twitter: whiteflamingo88
 
-Jamming 
-- afrobeats; neosoul; rap 
+Exploring:
+- Kitesurfing 
+- Ice-climbing
+- Mountaineering 
 
-Creating 
-- ghost writing lyrics 
-
-Exploring 
-- mountains 
-
-Learning 
-- reading: kitchen confidential - anthony bourdain  
-
-Do reach out 
+LFG. 
 
 XXI
