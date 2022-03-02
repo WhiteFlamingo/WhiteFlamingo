@@ -1,9 +1,9 @@
-White Flamingo - I contribute to, advise on and mentor in DAOs
+I contribute to, advise on and mentor in DAOs.
 
 Interested in:
 - Human coordination
 - DAOs
-- web3 to solve global challenges. 
+- web3 to solve global challenges 
 
 Helping:
 - **Station** solve reputation in web3
@@ -22,12 +22,8 @@ Fellowships:
 
 Previous: 
 - IC at **Protocol Labs**
-- Founder, Frontier Horizons
+- Founder at **Frontier Horizons**
 - Ex-diplomat
-
-Writing:
-- mirror.xyz
-- twitter: whiteflamingo88
 
 Exploring:
 - Kitesurfing 
