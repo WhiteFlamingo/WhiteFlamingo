@@ -1,8 +1,10 @@
-I contribute to, advise on and mentor in DAOs.
+Current:
+Accelerators @ **Protocol Labs**
+Founder @ **Frontier Horizons**
 
 Interested in:
-- Human coordination
-- DAOs
+- Public goods 
+- DAOs / decentralised communities
 - Web3 to solve global challenges 
 
 Helping:
@@ -20,9 +22,7 @@ Fellowships:
 - **Kernel KB5** Fellow
 - Future Leaders Council of the **World Wide Web Foundation**
 
-Previous: 
-- IC at **Protocol Labs**
-- Founder at **Frontier Horizons**
+Prev.
 - Ex-diplomat
 
 Exploring:
