@@ -1,5 +1,6 @@
-Current:
+ARCHITECT 
+  Senior Advisor, ASD
+  Co-Founder, ASA
 
-Builders Funnel @ **Protocol Labs**
-
-Founder @ **Frontier Horizons**
+Protocol Labs
+  Network Lead  
