@@ -1,6 +1,2 @@
-ARCHITECT 
-  Senior Advisor, ASD
-  Co-Founder, ASA
-
-Protocol Labs
-  Network Lead  
+ARCHITECT -- Senior Advisor & Co-Founder, ASD
+Protocol Labs --  Network Lead  
